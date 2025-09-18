@@ -1,10 +1,10 @@
 export function ToDo(){
     return(
         <div>
-            <h2>Prince Kumar todos</h2>
+            <h2>Katherine Johnson todos</h2>
 
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicsum.photos%2F&psig=AOvVaw38NUgyOEWDT9uT1JLDabnH&ust=1758100872146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiuhaL63I8DFQAAAAAdAAAAABAE"
-            alt="prince"
+            <img src="https://i.imgur.com/MK3eW3Am.jpg"
+            alt="Katherine Johnson"
             class="photo" 
             />
             <ul>
